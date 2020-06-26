@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Picojazz Constat V1.0.exe" version="1.0.0.1" publicKeyToken="a66624856c6e641b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Picojazz Constat V1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Picojazz Constat V1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Picojazz Constat V1.0.exe" size="37832">
+      <assemblyIdentity name="Picojazz Constat V1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0vvoJyoXIh8RAW0QmllMsNuLEyaQUPIkyl/FwnLQcOg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Picojazz Constat V1.0.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PRIMO-PC\picojazz" issuerKeyHash="854fd0691103f12e1ddb267f3d2bb2bc9671b6c8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jXdW/D3QKftC6m0KDIqxaWWxMYPj8G4QrcYKLvO+brY=</DigestValue></Reference></SignedInfo><SignatureValue>RTd2Bt1iVmHyBJFAg90bAizZ8Zlpb2QDp7n3RHnpzUKOu6XPTla9Q3UQqgqNoErjk0Sj8FvMm8pBnm/+8Hhw6eMjzdUQOqIVBfkhNByxJNJiUGIuAhgW3H+jS6mUzH5kNjS7iCjrEFai6iXb2ghQQgsI4S349Fo5FWFf2rDbTZM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>svb1GSLvWHgczW6cINOu9pSwQhWPwxcViPaJ+MA/5mvn9xbfCAj6rZ/09t9+R/J9OssZktsMFVxR3fakN+jOZIyASIrQPHGHCLTf4pCHodfQMsXK9kO9jEFPLyb285LcmnD6c9a9/MoLsXxHxwunSyNeOrgsjyLu541GBo94HhU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b66ebef32e0ac6ad106ef0e38331b16569b18a0c0a6dea42fb29d03dfc56778d" Description="" Url=""><as:assemblyIdentity name="Picojazz Constat V1.0.exe" version="1.0.0.1" publicKeyToken="a66624856c6e641b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PRIMO-PC\picojazz</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wsprk18CoU/9E/23JpmkDZDM4HtJcyGgyIHPFRmMPlk=</DigestValue></Reference></SignedInfo><SignatureValue>LYZBYu8xy2isgncUple5ON0NHCUUsjQMeb1J2kJxIrcDBfQ+VNhG6OJK2oqkZkoW2FBg84HeQPADcMBucTKVfcsgah3H1gP2dECDI0aUbo5LpeVP5GwxFkhnwYU6k67OXLtUspo1h6Wl8n7ojtx96SKuhu6J7LlAh1ifVFxsipw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>svb1GSLvWHgczW6cINOu9pSwQhWPwxcViPaJ+MA/5mvn9xbfCAj6rZ/09t9+R/J9OssZktsMFVxR3fakN+jOZIyASIrQPHGHCLTf4pCHodfQMsXK9kO9jEFPLyb285LcmnD6c9a9/MoLsXxHxwunSyNeOrgsjyLu541GBo94HhU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQEggx0+9BRZtJNIW1tq0quzANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAUABSAEkATQBPAC0AUABDAFwAcABpAGMAbwBqAGEAegB6MB4XDTIwMDYyNjIxMTc0NloXDTIxMDYyNzAzMTc0NlowLTErMCkGA1UEAx4iAFAAUgBJAE0ATwAtAFAAQwBcAHAAaQBjAG8AagBhAHoAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsvb1GSLvWHgczW6cINOu9pSwQhWPwxcViPaJ+MA/5mvn9xbfCAj6rZ/09t9+R/J9OssZktsMFVxR3fakN+jOZIyASIrQPHGHCLTf4pCHodfQMsXK9kO9jEFPLyb285LcmnD6c9a9/MoLsXxHxwunSyNeOrgsjyLu541GBo94HhUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQB15K7LIxJQOlEMGqWTImCTz4BZJF7uIRlfWi5STiFeDfWzyrXJEljoPj/PpiWeM0SX344h8amxNhTTpPwSeT0wkF8P+MgPOzgU5RbQUV1Kd8Gem62D7ywCoWw9VPYXtOps3cKwrSXdXaeq299VcsTHvlYMDsKT4SBcWdlNVlV7XQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

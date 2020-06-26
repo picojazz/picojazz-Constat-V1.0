@@ -1,0 +1,14 @@
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\bin\Debug\Picojazz Constat V1.0.exe.config
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\bin\Debug\Picojazz Constat V1.0.exe
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\bin\Debug\Picojazz Constat V1.0.pdb
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.csprojAssemblyReference.cache
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz_Constat_V1._0.Form1.resources
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz_Constat_V1._0.Properties.Resources.resources
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.csproj.GenerateResource.cache
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.exe
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.pdb
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.csproj.ResolveComReference.cache
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\bin\Debug\Picojazz Constat V1.0.exe.manifest
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\bin\Debug\Picojazz Constat V1.0.application
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.exe.manifest
+C:\Users\picojazz\source\repos\Picojazz Constat V1.0\Picojazz Constat V1.0\obj\Debug\Picojazz Constat V1.0.application
